@@ -1,0 +1,37 @@
+
+#content-cadastro {
+    display: block;
+    height: 648.5px;
+}
+
+#alert-cadastro {
+    display: none;
+    font-size: 12px;
+}
+
+#alert-erro-form {
+    display: none;
+    background-color:#f8d7da;
+    color: #491217;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+#alert-info {
+    display: none;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+button {
+    box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.932);
+}
+
+#alert-confirm-sair-form {
+    display: none;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+}
